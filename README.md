@@ -1,2 +1,0 @@
-# TemplatePackageManager
-Created with CodeSandbox
